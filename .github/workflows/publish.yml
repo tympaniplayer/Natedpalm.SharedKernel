@@ -42,7 +42,7 @@ jobs:
           NUGET_KEY: ${{secrets.ARTIFACTORY_KEY}}
 
           # NuGet server uri hosting the packages, defaults to https://api.nuget.org
-          NUGET_SOURCE: https://natedpalm.jfrog.io/artifactory/natedpalm-nuget/
+          NUGET_SOURCE: https://natedpalm.jfrog.io/artifactory/api/nuget/natedpalm-nuget
 
           # Flag to toggle pushing symbols along with nuget package to the server, disabled by default
           # INCLUDE_SYMBOLS: false
