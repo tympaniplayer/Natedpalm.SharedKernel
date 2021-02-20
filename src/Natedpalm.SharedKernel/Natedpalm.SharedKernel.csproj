@@ -5,7 +5,7 @@
     <Version>1.0.0</Version>
     <Title>Natedpalm.SharedKernel</Title>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Authors>Nate Palmer (natedpalm)</Authors>
+    <Authors>Nate Palmer (@natedpalm)</Authors>
     <Company>natedpalm.com</Company>
     <PackageProjectUrl>https://github.com/tympaniplayer/Natedpalm.SharedKernel</PackageProjectUrl>
     <Description>Shared kernel for natedpalm.com projects.</Description>
