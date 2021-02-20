@@ -8,7 +8,7 @@
     <Authors>Nate Palmer (natedpalm)</Authors>
     <Company>natedpalm.com</Company>
     <PackageProjectUrl>https://github.com/tympaniplayer/Natedpalm.SharedKernel</PackageProjectUrl>
-    <Description>Shared kernel for natedpalm.com projects</Description>
+    <Description>Shared kernel for natedpalm.com projects.</Description>
     <Summary>It's generally recommended to have a shared kernel for projects that will implement using similar DDD fundamentals. This is the project.</Summary>
     <RepositoryUrl>https://github.com/tympaniplayer/Natedpalm.SharedKernel</RepositoryUrl>
     <PackageTags></PackageTags>
