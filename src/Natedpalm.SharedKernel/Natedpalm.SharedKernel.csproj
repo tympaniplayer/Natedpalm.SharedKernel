@@ -12,7 +12,7 @@
     <Summary>It's generally recommended to have a shared kernel for projects that will implement using similar DDD fundamentals. This is the project.</Summary>
     <RepositoryUrl>https://github.com/tympaniplayer/Natedpalm.SharedKernel</RepositoryUrl>
     <PackageTags></PackageTags>
-    <PackageReleaseNotes>1.0 Release</PackageReleaseNotes>
+    <PackageReleaseNotes>1.0.0 Release</PackageReleaseNotes>
     <AssemblyName>Natedpalm.SharedKernel</AssemblyName>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <LangVersion>8.0</LangVersion>
