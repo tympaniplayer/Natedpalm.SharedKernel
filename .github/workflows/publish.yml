@@ -20,12 +20,11 @@ jobs:
       # Publish
       - name: publish on version change
         id: publish_nuget
-        uses: tympaniplayer/publish-nuget@2.6.2 
+        uses: rohith/publish-nuget@v2 
         with:
           # Filepath of the project to be packaged, relative to root of repository
           VERSION_REGEX: <Version>(.*)<\/Version>
           PROJECT_FILE_PATH: src/Natedpalm.SharedKernel/Natedpalm.SharedKernel.csproj
-          NUGET_KEY: ${{secrets.ARTIFACTORY_KEY}}
-          NUGET_SOURCE: https://natedpalm.jfrog.io/artifactory/api/nuget/natedpalm-nuget
+          NUGET_KEY: ${{secrets.NUGET_API_KEY}}
           TAG_COMMIT: true
           TAG_FORMAT: v*
